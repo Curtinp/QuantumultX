@@ -3,7 +3,7 @@
 dreamface 3.0.0
 
 [rewrite_local]
-https://www.dreamfaceapp.com/df-server/user/save_user_login url script-response-body dreamface.js
+https://www.dreamfaceapp.com/df-server/user/save_user_login url script-response-body https://raw.githubusercontent.com/Curtinp/QuantumultX/main/Rewrite/dreamface.js
 
 [mitm]
 hostname = www.dreamfaceapp.com
