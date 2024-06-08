@@ -1,6 +1,6 @@
 /******************************
 脚本功能：布丁锁屏-解锁会员
-更新时间：2024-06-05
+更新时间：2024-06-08
 *******************************
 [rewrite_local]
 ^https:\/\/screen-lock\.sm-check\.com\/ url script-response-body https://raw.githubusercontent.com/Curtinp/QuantumultX/main/Rewrite/buding.js
